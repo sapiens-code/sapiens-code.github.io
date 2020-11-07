@@ -2,12 +2,14 @@
 title: about
 date: 2020-09-19 15:46:23
 ---
-<section class="u-align-left u-clearfix u-grey-10 u-section-3" id="carousel_5164">
-      <img src="images/pexels-photo-555790.jpg" alt="" class="u-image u-image-default u-image-1" data-image-width="1431" data-image-height="1500">
-      <h2 class="u-text u-text-1">Hi! My name is Josh Perry</h2>
-      <div class="u-align-center u-container-style u-expanded-width u-group u-palette-3-base u-group-1">
-        <div class="u-container-layout u-container-layout-1">
-          <h5 class="u-custom-font u-font-ubuntu u-text u-text-default u-text-2">I'M travel blogger</h5>
-        </div>
-      </div>
-</section>
+# Về Tác Giả
+## Đây là mình
+![me](me.JPG)
+## giới thiệu
+Xin chào các bạn đã ghé thăm blog của mình. Đây là blog của mình, nói về những thứ mình đang nghiên cứu dựa những kinh nghiệm mình học được trên giảng đường, kinh nghiệm thực tế, tự học... Các bạn có thể tìm thấy các bài viết về lập trình, học thuật, công nghệ mới..., và một số chủ đề khác.
+
+Các bạn có thể tham khảo một số dự án của mình trên tab [Projects](https://github.com/sapiens-code)
+
+Ngoài ra mình có tập luyệt street workout như một công cụ đê giải tỏa căng thẳng sau giờ làm việc. đây là series nói về việc tập luyệt từ cơ bản cho những người mới bắt đầu.
+
+Cảm ơn vì đã đọc và chúc các bạn một ngày tốt lành.
