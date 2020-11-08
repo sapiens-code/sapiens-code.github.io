@@ -1,0 +1,21 @@
+.input:focus,
+.input--filled .input {
+    opacity: 1;
+    -webkit-transition: opacity 0s 0.3s;
+    transition: opacity 0s 0.3s;
+}
+.input:focus + .label::before,
+.input--filled .label::before {
+    -webkit-transform: translate3d(0, 0, 0);
+    transform: translate3d(0, 0, 0);
+}
+.input:focus + .label::after,
+.input--filled .label::after {
+    opacity: 0;
+}
+.input:focus + .label .label-content,
+.input--filled .label .label-content {
+    color: #cbc4c6;
+    -webkit-transform: translate3d(0, 2.1em, 0) scale3d(0.65, 0.65, 1);
+    transform: translate3d(0, 2.1em, 0) scale3d(0.65, 0.65, 1);
+}
