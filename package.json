@@ -2,7 +2,7 @@
   "name": "valentine-day-website",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://https://sapiens-code.github.io/sapiens-code.github.io/",
+  "homepage": "https://https://sapiens-code.github.io",
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.3.2",
